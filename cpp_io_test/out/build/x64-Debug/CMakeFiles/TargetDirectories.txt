@@ -1,3 +1,0 @@
-C:/Education/CMake/Prog/learnCmake-master/cmakeHelloWorld/out/build/x64-Debug/CMakeFiles/CppIoTest.dir
-C:/Education/CMake/Prog/learnCmake-master/cmakeHelloWorld/out/build/x64-Debug/CMakeFiles/edit_cache.dir
-C:/Education/CMake/Prog/learnCmake-master/cmakeHelloWorld/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
