@@ -1,0 +1,3 @@
+C:/Users/niki_/Downloads/learnCmake-master/cpp_io_test/out/build/x64-Release/CMakeFiles/cpp_io_test.dir
+C:/Users/niki_/Downloads/learnCmake-master/cpp_io_test/out/build/x64-Release/CMakeFiles/edit_cache.dir
+C:/Users/niki_/Downloads/learnCmake-master/cpp_io_test/out/build/x64-Release/CMakeFiles/rebuild_cache.dir
